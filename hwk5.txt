@@ -1,0 +1,8 @@
+1. For the lefthand Riemann sum, making the step size 1/10th as large
+   increases the approximation accuracy by a factor of 10
+
+2. For the trapexoidal rule, making the step size 1/10th as large
+   increases the approximation accuracy by a factor of 100
+
+3. For the lefthand Riemann sum, making the step size 1/10th as large
+   increases the approximation accuracy by a factor of 1000
